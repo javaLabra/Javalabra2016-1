@@ -45,4 +45,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* Lopullinen palautus - torstaina ??.??.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
+* Lopullinen palautus - perjantaina 21.10.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
