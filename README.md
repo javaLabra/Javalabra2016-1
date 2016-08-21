@@ -35,15 +35,14 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **30** <br> 25.7.-31.7. | aloitustilaisuus klo 14-16 **luokassa B119** | - | paja klo 12-14 **luokassa C221** | dl1  23:59 | - | - | - |
-| **31** <br> 1.8.-7.8. | paja klo 12-14 **luokassa C221** | - | paja klo 12-14 **luokassa C221** | dl2  23:59 | - | - | - |
-| **32** <br> 8.8.-14.8.  | paja klo 12-14 | - | paja klo 12-14 | dl3  23:59 | - | - | - |
-| **33** <br> 15.8.-21.8.  | paja klo 12-14 | - | paja klo 12-14 | dl4  23:59, Katselmointi1  23:59 | - | - | - |
-| **34** <br> 22.8.-28.8. | paja klo 12-14 | - | paja klo 12-14 | dl5  23:59 | - | - | Katselmointi2  23:59 |
-| **35** <br> 29.8.-4.9. | paja klo 12-14 & **demo klo 14-16 luokassa B221** | **demo klo 12-14 luokassa B221** | paja klo 12-14 | dl6/lopullinen palautus  23:59 | - | - | - |
+| **36** <br> 5.9.-11.9. | - | Aloitustilaisuus klo 12-14 luokassa **B221** | - | - | - | - | - |
+| **37** <br> 12.9.-18.9. | - | - | - | - | - | - | - |
+| **38** <br> 19.9.-25.9.  | - | - | - | - | - | - | - |
+| **39** <br> 26.9.-2.10.  | - | - | - | - | - | - | - |
+| **40** <br> 3.10.-9.10. | - | - | - | - | - | - | - |
+| **41** <br> 10.10.-16.10. | - | - | - | - | - | - | - |
+| **42** <br> 17.10.-23.10. | - | - | - | - | - | - | - |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* Demot luokassa B221. Ilmottautumisen linkki lähetetty sähköpostiin.
-
-* Lopullinen palautus - torstaina 1.9.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
+* Lopullinen palautus - torstaina ??.??.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
