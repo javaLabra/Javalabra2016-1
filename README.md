@@ -13,7 +13,7 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Antti Haapaniemi (Pallero)
+* Valtteri Lakaniemi (TheDuckFIN)
 * Ilmari Pohjola (vipohjol)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
@@ -25,11 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* (16.8. ) Demoilmottautuminen avattu. Linkki löytyy sähköpostistanne.
-* (10.8. ) Ensimmäisen koodikatselmoinnin takarajaa muutettiin torstaiksi 18.8.!
-* (25.07.) Ensimmäinen paja pidetäänkin jo ensimmäisen viikon keskviikkona klo 12-14 luokassa C221 (linkki-luokka).
-* Aloitustilaisuus maanantaina 25.7. klo 14-16 luokassa **B119**, läsnäolo pakollinen!
-* (18.07.) Kurssisivut julki.
+* (21.8.) Kurssisivut GitHubissa. 
 
 # Aikataulu
 
