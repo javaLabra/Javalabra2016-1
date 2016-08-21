@@ -37,9 +37,10 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Deadline 6 pe 14.10. klo 23:59
-* [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
+* [Deadlinen 6 vaatimukset](Deadline-6.md)
 
 ### Loppupalautus pe 21.10. klo 23:59
+* [Loppupalautuksen checklist!](Deadline-loppupalautus.md)
 
 ### Demot
 
