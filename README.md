@@ -35,7 +35,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **36** <br> 5.9.-11.9. | Paja klo 14-16 **BK107** | Aloitustilaisuus klo 12-14 luokassa **B221** | - | Paja 12-14 **BK107** | DL 1 | - | - |
+| **36** <br> 5.9.-11.9. | Paja 14-16 **BK107** | Aloitustilaisuus klo 12-14 luokassa **B221** | - | Paja 12-14 **BK107** | DL 1 | - | - |
 | **37** <br> 12.9.-18.9. | Paja 14-16 **BK107** | - | - | Paja 12-14 **BK107** | DL 2 | - | - |
 | **38** <br> 19.9.-25.9.  | Paja 14-16 **BK107** | - | - | Paja 12-14 **BK107** | DL 3 | - | - |
 | **39** <br> 26.9.-2.10.  | Paja 14-16 **BK107** | - | - | Paja 12-14 **BK107** | DL 4 | - | - |
