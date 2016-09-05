@@ -5,11 +5,12 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Valtteri Lakaniemi -- **TheDuckFIN** -- etunimi.sukunimi@helsinki.fi
-    - Ilmari Pohjola -- **vipohjol** -- etunimi.sukunimi@helsinki.fi
-- Yhteyttä sähköpostilla tai irkissä
+    - Valtteri Lakaniemi -- **TheDuckFIN**
+    - Ilmari Pohjola -- **vipohjol**
+- Yhteyttä sähköpostilla tai irkissä (Ilmarille mieluiten sähköpostitse)
+    - etunimi.sukunimi@helsinki.fi 
 - Irkkikanava #javalabra @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Javalabra2016-loppukesa
+- Kurssisivu https://github.com/javaLabra/Javalabra2016-1
 
 # Mistä kyse?
 
@@ -73,9 +74,9 @@
 
 # Kurssin kulku
 
-- Jokaisen viikon torstaina **deadline** kello 23:59
+- Jokaisen viikon perjantaina **deadline** kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon torstaina!**
+    - Ensimmäinen deadline **tämän viikon perjantaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -88,8 +89,8 @@
     - **Ensimmäisellä kurssiviikolla ei pajaa**
     - Toisen viikon pajat poikkeuksellisesti **linkki-luokassa** (C221)
     - Pajaa tarjolla:
-    	- **ma 12-14**
-    	- **ke 12-14**
+    	- **ma 14-16** Mahdollisesti muuttuu!!!
+    	- **to 12-14**
     - Luokassa **BK107** (kellarikerroksen pajaluokka)
         
     - Vapaaehtoista
@@ -123,7 +124,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2016-loppukesa
+- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2016-1
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
+- Ohjaajat jäävät hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin 
