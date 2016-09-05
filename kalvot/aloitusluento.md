@@ -5,7 +5,7 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Valtteri Lakaniemi -- **TheDuckFIN**
+    - Valtteri Lakaniemi -- **TheDuck**
     - Ilmari Pohjola -- **vipohjol**
 - Yhteyttä sähköpostilla tai irkissä (Ilmarille mieluiten sähköpostitse)
     - etunimi.sukunimi@helsinki.fi 
