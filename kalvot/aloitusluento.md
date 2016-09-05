@@ -1,7 +1,3 @@
-% Ohjelmoinnin harjoitustyö: Ohjelmointi (Javalabra)
-% Antti Haapaniemi; Ilmari Pohjola
-% 25.7.2016
-
 # Ohjaajat
 
 - Ohjaajat
@@ -9,7 +5,7 @@
     - Ilmari Pohjola -- **vipohjol**
 - Yhteyttä sähköpostilla tai irkissä (Ilmarille mieluiten sähköpostitse)
     - etunimi.sukunimi@helsinki.fi 
-- Irkkikanava #javalabra @ IRCnet
+- IRC-kanava **#javalabra2016** @ IRCnet
 - Kurssisivu https://github.com/javaLabra/Javalabra2016-1
 
 # Mistä kyse?
@@ -86,8 +82,7 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - **Ensimmäisellä kurssiviikolla ei pajaa**
-    - Toisen viikon pajat poikkeuksellisesti **linkki-luokassa** (C221)
+    - **Ensimmäisellä kurssiviikolla pajaa jo torstaina klo 12-14 luokassa BK107**
     - Pajaa tarjolla:
     	- **ma 14-16** Mahdollisesti muuttuu!!!
     	- **to 12-14**
