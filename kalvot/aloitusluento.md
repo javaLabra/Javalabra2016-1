@@ -5,7 +5,7 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Antti Haapaniemi -- **Pallero** -- etunimi.sukunimi@helsinki.fi
+    - Valtteri Lakaniemi -- **TheDuckFIN** -- etunimi.sukunimi@helsinki.fi
     - Ilmari Pohjola -- **vipohjol** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
