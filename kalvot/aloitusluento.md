@@ -43,7 +43,6 @@
     - Pacman
     - Shakki
     - Laivanupotus
-    - Olutmuistio
     - Fysiikkasimulaattori
     - Lisää esimerkkiaiheita kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
