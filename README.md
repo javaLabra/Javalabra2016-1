@@ -19,7 +19,7 @@
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 **Kurssin IRC-kanava**:
-\#javalabra @ IRCnet
+\#javalabra2016 @ IRCnet
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
