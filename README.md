@@ -13,7 +13,7 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Valtteri Lakaniemi (TheDuckFIN)
+* Valtteri Lakaniemi (TheDuck)
 * Ilmari Pohjola (vipohjol)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
