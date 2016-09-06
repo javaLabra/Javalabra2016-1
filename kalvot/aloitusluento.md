@@ -84,7 +84,7 @@
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
     - **Ensimmäisellä kurssiviikolla pajaa jo torstaina klo 12-14 luokassa BK107**
     - Pajaa tarjolla:
-    	- **ma 14-16** Mahdollisesti muuttuu!!!
+    	- **ma 12-14**
     	- **to 12-14**
     - Luokassa **BK107** (kellarikerroksen pajaluokka)
         
