@@ -33,7 +33,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Aritmetiikan harjoittelua
   * Tehtävägeneraattori, joka antaa käyttäjälle tehtävän sekä mallivastauksen (esim. matematiikkaa, fysiikkaa, kemiaa, ...)
   * Opintojen seurantajärjestelmä
-  * Matkapäiväkirja
   * Tekstieditori ("Notepad-klooni") 
   * IRC-botti
   * Code Snippet Manageri
@@ -42,7 +41,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Budjetointi-sovellus
   * TODO-lista sovellus
   * HTML WYSIWYG-editor (What you see is what you get)
-  * Drinkkikone, joka kertoo käyttäjälle mitä drinkkejä baarikaapin sisällöstä saa tehtyä
   * Aiheenarpoja, jotta seuraavilla olisi helpompaa
 
 * Reaaliaikaiset pelit
@@ -74,6 +72,5 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * DNA-ketjujen tutkija 
   * Keräilykorttien hallintajärjestelmä
   * Fraktaaligeneraattori
-  * Kaavamuistio
 
 Voit katsoa myös [vanhat esimerkkiaiheet](https://www.cs.helsinki.fi/node/59273), jotka tosin ovat suurimmaksi osaksi samoja.
