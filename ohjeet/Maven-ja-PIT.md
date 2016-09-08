@@ -189,6 +189,7 @@ Failed to execute goal org.pitest:pitest-maven:0.30:mutationCoverage (default-cl
 Execution default-cli of goal org.pitest:pitest-maven:0.30:mutationCoverage failed:
 No mutations found. This probably means there is an issue with either the supplied classpath or filters.
 ```
+* **Virhe voi johtua siitä, että projektissasi ei ole vielä yhtään testiä**, tee siis vähintään yksi testi ja yritä uudestaan. Jos virhe ei poistu, lue alaspäin.
 
 * Se tarkoittaa, että pom.xml:n groupID ja projektin pakettien nimet eivät täsmää keskenään. Tai että konfiguroinnin parametrit osoittavat väärään paikkaan. Tai että testit eivät ole koodia vastaavissa paketeissa.
 
