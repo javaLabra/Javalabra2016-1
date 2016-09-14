@@ -38,7 +38,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Code Snippet Manageri
   * Laskin, funktiolaskin, graafinen laskin
   * Budjetointi-sovellus
-  * TODO-lista sovellus
   * HTML WYSIWYG-editor (What you see is what you get)
   * Aiheenarpoja, jotta seuraavilla olisi helpompaa
 
