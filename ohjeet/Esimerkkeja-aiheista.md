@@ -37,7 +37,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * IRC-botti
   * Code Snippet Manageri
   * Laskin, funktiolaskin, graafinen laskin
-  * Luetonkalenteri
   * Budjetointi-sovellus
   * TODO-lista sovellus
   * HTML WYSIWYG-editor (What you see is what you get)
