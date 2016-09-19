@@ -23,7 +23,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
-**TÄRKEÄÄ** Jos teet laitoksen koneilla työtäsi, pidä huoli, että tunnuksellesi on varattu riittävästi tyhjää levytilaa. Tavallinen HY-tunnus sisältää vain 5 gigaa levytilaa, joista mavenin cache (välimuisti) vie leijonan osan. Jos olet hankkinut itsellesi myös cs-tunnuksen (kirjautuessa kirjoita käyttäjätunnukseksesi diibadaaba@cs), sinulla on lisäksi 10 gigaa ylimääräistä. Kannattaa tehdä työ tällä tunnuksella. Jos tilaa ei ole riittävästi, törmäät jatkuvasti virheilmoituksiin yrittäessäsi ajaa Pit-tiä ja puskea työtäsi repositorioon. 
+**TÄRKEÄÄ!** Jos teet laitoksen koneilla työtäsi, pidä huoli, että tunnuksellesi on varattu riittävästi tyhjää levytilaa. Tavallinen HY-tunnus sisältää vain 5 gigaa levytilaa, joista mavenin cache (välimuisti) vie leijonan osan. Jos olet hankkinut itsellesi myös cs-tunnuksen (kirjautuessa kirjoita käyttäjätunnukseksesi diibadaaba@cs), sinulla on lisäksi 10 gigaa ylimääräistä. Kannattaa tehdä työ tällä tunnuksella. Jos tilaa ei ole riittävästi, törmäät jatkuvasti virheilmoituksiin yrittäessäsi ajaa Pit-tiä ja puskea työtäsi repositorioon. 
 
 ## Uutisia
 
