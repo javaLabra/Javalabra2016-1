@@ -27,6 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
+* (5.10.) Demotilaisuuksien ajat julki! Ilmoittautuminen [doodlessa](http://doodle.com/poll/daxz5swkasm765gr)
 * (21.8.) Kurssisivut GitHubissa. 
 
 # Aikataulu
@@ -42,7 +43,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **38** <br> 19.9.-25.9.  | Paja <br> 12-14 BK107 | - | - | Paja <br> 12-14 BK107 | DL 3 23:59 | - | Katselmointi 1 DL 23:59 |
 | **39** <br> 26.9.-2.10.  | Paja <br> 12-14 BK107 | - | - | Paja <br> 12-14 BK107 | DL 4 23:59 | - | - |
 | **40** <br> 3.10.-9.10. | Paja <br> 12-14 BK107 | - | - | Paja <br> 12-14 BK107 | DL 5 23:59 | - | Katselmointi 2 DL 23:59 |
-| **41** <br> 10.10.-16.10. | Paja <br> 12-14 BK107 | - | - | Paja <br> 12-14 BK107 | DL 6 23:59 | - | - |
+| **41** <br> 10.10.-16.10. | Paja <br> 12-14 BK107 | Demo 14-16 | - | Paja <br> 12-14 BK107 <br> Demo 14-16 | DL 6 23:59 <br> Demo 12-14 | - | - |
 | **42** <br> 17.10.-23.10. | Paja <br> 12-14 BK107 | - | - | Paja <br> 12-14 BK107 | Loppupalautus 23:59 | - | - |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
