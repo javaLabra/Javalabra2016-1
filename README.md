@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* (5.10.) Demotilaisuuksien ajat julki! Ilmoittautuminen [doodlessa](http://doodle.com/poll/daxz5swkasm765gr)
+* (5.10.) Demotilaisuuksien ajat julki! Ilmoittautuminen linkki sähköpostissa!
 * (21.8.) Kurssisivut GitHubissa. 
 
 # Aikataulu
