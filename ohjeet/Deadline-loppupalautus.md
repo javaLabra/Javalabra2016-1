@@ -4,6 +4,7 @@
 * Ohjelma toimii ja on valmis
 * JUnit-testejä mahdollisimman kattavasti
 * Kaaviot, Javadoc ja muu dokumentointi ajantasalla ja vastaa vaatimuksia
+* **Siirrä luomasi jar-tiedosto projektin juureen (sinne missä on readme!) ja varmista että se menee myös GitHubiin**
 
 ###  Kirjoita testausdokumentaatio
 * **Vapaaehtoinen**
